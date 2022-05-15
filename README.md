@@ -48,7 +48,7 @@ Hence our team came up with Project ** Farmiyo: Where Farming is made easier :: 
 ## Accomplishments that we're proud of
  
 ✅We are proud that we were able to address such an important issue and find a practical and inclusive solution to it. <br>
-✅Our teamwork and cooperative workflow helped us to build the project in its entirety.
+✅Our teamwork and cooperative workflow helped us to build the project in its entirety. <br>
 ✅We are proud to have completed the whole UI design, develop and publish a fully functional website and developed an ML model.
 ## What we learned
 * The very first thing we all learned was teamwork. We thought about the various problems around us and came up with a solution that we could build in the given time.
