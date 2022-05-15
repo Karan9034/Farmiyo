@@ -29,13 +29,11 @@ Hence our team came up with Project ** Farmiyo: Where Farming is made easier :: 
 * This will help the farmers to know the crop yield in advance to plan and choose a crop that would give a better yield.
 * The ML model aims to help farmers to cultivate proper crops for better yield production. To precisely predict the crop yield it analyzes factors like district (assuming same weather and soil parameters in a particular district), state season, and crop type. It can be achieved using supervised and unsupervised learning algorithms. 
 * We used a random forest machine learning algorithm. The chosen dataset was loaded and 75% of the dataset was used to train the model and 25% to test the model. The model achieved an accuracy of 89%. 
-<br> <img src="https://github.com/prachi237/Farmiyo/blob/master/pic1.jpeg" width="300" height="500" >
+
+<br><img src="https://github.com/prachi237/Farmiyo/blob/master/pic1.jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/Farmiyo/blob/master/pic2.jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/Farmiyo/blob/master/pic3.jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/Farmiyo/blob/master/pic4.jpeg" width="300" height="500" >
-
-
-
 
 ## How we built it
 * Figma: After brainstorming many ideas, we moved on to wireframing in Figma, starting with lo-fidelity and working together to create clickable interactions on the high fidelity prototype.
