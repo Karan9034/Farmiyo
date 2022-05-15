@@ -56,7 +56,7 @@ Hence our team came up with Project ** Farmiyo: Where Farming is made easier :: 
 * The second thing we could implement Machine Learning Algorithm to our project. 
 * We learned better tactics of collaboration and brainstorming. We also learned a lot of issues faced in agro-industry while researching, that we were unaware of.
 
-<img src="https://github.com/prachi237/Farmiyo/blob/master/pic6.jpeg" width="600" height="500" >
+<img src="https://github.com/prachi237/Farmiyo/blob/master/pic6.jpeg" width="700" height="500" >
 
 ## What's next for Farmiyo
 * We want to build a mobile application since it is handier.
